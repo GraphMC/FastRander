@@ -1,2 +1,10 @@
 # FastRander [Draft]
-gpgpu 컴퓨팅기반 청크랜더러
+
+Powerful Minecraft chunk rendering engine for TPU🧐?, GPU and multi-core processors
+
+## Features
+
+Optimize parallelism with neural networks
+
+
+
